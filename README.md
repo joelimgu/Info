@@ -1,2 +1,2 @@
 # Info
-Code de haut niveau pour contorler les actions et l'estrategir du robot
+Code de haut niveau pour controler les actions et la stratégie du robot
