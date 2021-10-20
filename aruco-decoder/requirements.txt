@@ -1,0 +1,4 @@
+opencv-python
+opencv-contrib-python
+unittest2
+numpy
